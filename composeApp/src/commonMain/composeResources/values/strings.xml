@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FrequenTask</string>
+    <string name="today_title">Today</string>
+    <string name="add_theme">Add Theme</string>
+    <string name="add_task">Add Task</string>
+    <string name="complete_task">Mark Done</string>
+    <string name="add_note">Add Note</string>
+    <string name="cancel">Cancel</string>
+    <string name="theme_name">Theme Name</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Description</string>
+    <string name="confirm">OK</string>
+    <string name="every_x_days">Every %1$s days</string>
+    <string name="last_completed">Last Completed:</string>
+    <string name="next_due_on">Next Due: %1$s</string>
+    <string name="next_due">Next Due On:</string>
+    <string name="frequency">Frequency:</string>
+    <string name="delete">Delete</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="overdue">Overdue</string>
+    <string name="past">Past</string>
+    <string name="back">Back Button</string>
+    <string name="theme_list">List Themes</string>
+    <string name="theme_list_content_description">List All Themes</string>
+</resources>
